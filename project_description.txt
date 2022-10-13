@@ -1,0 +1,13 @@
+Project Description:
+
+The simulator consists of the following parts:
+
+  1- main process
+  2- command console
+  3- inspection console
+  4- motor x
+  5- motor z
+  6- watchdog
+  7- logfiles
+
+    
